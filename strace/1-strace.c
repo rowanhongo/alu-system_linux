@@ -15,7 +15,6 @@
  * @argv: argument array
  * @envp: environment parameters
  * Return: 0 on success | 1 on failure (not enough arguments)
- * author: Frank Onyema Orji
  **/
 int main(int argc, char *argv[], char *envp[])
 {
