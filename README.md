@@ -8,6 +8,7 @@ Projects from the ALU Software Engineering system programming track (Linux, C, P
 |-----------|-------------|
 | [0x08_CPython](./0x08_CPython) | C extensions and tools for Python internals: lists, bytes and float objects, and the big-O of list operations |
 | [nm_objdump](./nm_objdump) | Re-implementations of the `nm` and `objdump` binary inspection tools (`hnm`, `hobjdump`) in C, for 32 and 64-bit ELF files |
+| [multithreading](./multithreading) | Thread creation, a thread-safe `tprintf`, image blurring with threads, and prime factorization |
 
 ## Requirements
 
