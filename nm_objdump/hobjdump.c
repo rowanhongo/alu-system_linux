@@ -9,7 +9,6 @@
  *       upon execution
  * Return: EXIT_SUCCESS upon successful execution of 'objdump',
  *         otherwise returns EXIT_FAILURE
- * Author: Frank Onyema Orji
  */
 
 int main(int argc, char **argv, char **env)
